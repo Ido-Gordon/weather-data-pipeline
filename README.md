@@ -1,6 +1,13 @@
 # 🌦️ Automated Weather ETL Pipeline & Dynamic SQL Analytics
 
-A production-ready Python and SQL data engineering project that extracts real-time meteorological data from the OpenWeatherMap API, normalizes it, and loads it into a local SQLite relational database. It includes an automated orchestrator alongside a complex analytical reporting script designed to detect temperature anomalies based on historical day/night baselines.
+A production ready Python and SQL data engineering project that extracts real time meteorological data from the OpenWeatherMap API, normalizes it, and loads it into a local SQLite relational database. It includes an automated orchestrator alongside a complex analytical reporting script designed to detect temperature anomalies based on historical day/night baselines.
+
+🎯 Why I Built This? (The Business Case)
+
+* **The Problem:** Companies lose money when they are surprised by extreme weather shifts , or when employees waste time copying data manually from websites every hour.
+* **The Solution:** I built an automated system that does all the heavy lifting. It collects live data every hour, stores it safely, and instantly flags whether a city is currently hotter or colder than its usual historical average. This helps managers make smart, data driven decisions to save operational costs.
+
+---
 
 ## 🚀 Key Features & Architecture
 
