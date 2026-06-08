@@ -9,6 +9,19 @@ A production ready Python and SQL data engineering project that extracts real ti
 
 ---
 
+## 📊 Data Visualization & Insights
+Beyond the textual analytics, I developed an interactive Tableau dashboard to visualize the data in real-time.
+
+What it shows: The map highlights temperature deviations across various cities in Israel relative to their historical baselines.
+
+Business Value: Users can filter data by Day/Night Category to analyze how weather patterns shift throughout the day.
+
+Trend Identification: The color-coded mapping helps stakeholders immediately identify cities experiencing extreme weather anomalies.
+
+Dashboard:
+![Dashboard](assets/weather_dashboard.jpg)
+---
+
 ## 🚀 Key Features & Architecture
 
 * **Automated ETL Pipeline (`extract_data.py`):** Programmatically fetches current weather payloads for major metropolitan areas in Israel every hour.
