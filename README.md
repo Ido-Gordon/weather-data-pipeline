@@ -19,7 +19,7 @@ Business Value: Users can filter data by Day/Night Category to analyze how weath
 Trend Identification: The color-coded mapping helps stakeholders immediately identify cities experiencing extreme weather anomalies.
 
 Dashboard:
-![Dashboard](assets/weather_dashboard.jpg)
+![Dashboard](assets/weather_dashboard.png)
 ---
 
 ## 🚀 Key Features & Architecture
